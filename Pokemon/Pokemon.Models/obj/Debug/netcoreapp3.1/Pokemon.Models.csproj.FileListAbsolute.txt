@@ -1,0 +1,10 @@
+C:\Users\aggw\source\repos\Pokemon\Pokemon.Models\obj\Debug\netcoreapp3.1\Pokemon.Models.csproj.AssemblyReference.cache
+C:\Users\aggw\source\repos\Pokemon\Pokemon.Models\obj\Debug\netcoreapp3.1\Pokemon.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aggw\source\repos\Pokemon\Pokemon.Models\obj\Debug\netcoreapp3.1\Pokemon.Models.AssemblyInfoInputs.cache
+C:\Users\aggw\source\repos\Pokemon\Pokemon.Models\obj\Debug\netcoreapp3.1\Pokemon.Models.AssemblyInfo.cs
+C:\Users\aggw\source\repos\Pokemon\Pokemon.Models\obj\Debug\netcoreapp3.1\Pokemon.Models.csproj.CoreCompileInputs.cache
+C:\Users\aggw\source\repos\Pokemon\Pokemon.Models\bin\Debug\netcoreapp3.1\Pokemon.Models.deps.json
+C:\Users\aggw\source\repos\Pokemon\Pokemon.Models\bin\Debug\netcoreapp3.1\Pokemon.Models.dll
+C:\Users\aggw\source\repos\Pokemon\Pokemon.Models\bin\Debug\netcoreapp3.1\Pokemon.Models.pdb
+C:\Users\aggw\source\repos\Pokemon\Pokemon.Models\obj\Debug\netcoreapp3.1\Pokemon.Models.dll
+C:\Users\aggw\source\repos\Pokemon\Pokemon.Models\obj\Debug\netcoreapp3.1\Pokemon.Models.pdb
